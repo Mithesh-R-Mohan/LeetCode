@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/Mithesh10/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Mithesh10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mithesh10/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Mithesh10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithesh10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Mithesh10/LeetCode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Mithesh10/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithesh10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
