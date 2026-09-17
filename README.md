@@ -25,6 +25,7 @@
 | [0013-roman-to-integer](https://github.com/Mithesh10/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Mithesh10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0088-merge-sorted-array](https://github.com/Mithesh10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Mithesh10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Mithesh10/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 | [0070-climbing-stairs](https://github.com/Mithesh10/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Mithesh10/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mithesh10/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 ## Trie
 |  |
 | ------- |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mithesh10/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 ## Counting
 |  |
 | ------- |
