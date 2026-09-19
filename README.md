@@ -26,6 +26,7 @@
 | [0141-linked-list-cycle](https://github.com/Mithesh10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Mithesh10/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0125-valid-palindrome](https://github.com/Mithesh10/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Mithesh10/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mithesh10/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Mithesh10/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
