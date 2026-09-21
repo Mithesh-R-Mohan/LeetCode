@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mithesh10/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mithesh10/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mithesh10/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -168,6 +170,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Mithesh10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
