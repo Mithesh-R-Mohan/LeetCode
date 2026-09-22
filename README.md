@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/Mithesh10/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@
 | [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Mithesh10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -204,4 +206,8 @@
 | [0183-customers-who-never-order](https://github.com/Mithesh10/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Mithesh10/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Mithesh10/LeetCode/tree/master/0197-rising-temperature) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
