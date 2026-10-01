@@ -32,6 +32,7 @@
 | [0205-isomorphic-strings](https://github.com/Mithesh10/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Mithesh10/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Mithesh10/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Mithesh10/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Mithesh10/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Mithesh10/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@
 | [0088-merge-sorted-array](https://github.com/Mithesh10/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Mithesh10/LeetCode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
