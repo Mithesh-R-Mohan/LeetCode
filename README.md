@@ -163,6 +163,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Mithesh10/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Mithesh10/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Mithesh10/LeetCode/tree/master/0258-add-digits) |
 ## Trie
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Mithesh10/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Mithesh10/LeetCode/tree/master/0258-add-digits) |
 ## Memoization
 |  |
 | ------- |
@@ -241,4 +243,8 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Mithesh10/LeetCode/tree/master/0257-binary-tree-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Mithesh10/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
