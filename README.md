@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mithesh10/LeetCode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Mithesh10/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Mithesh10/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Mithesh10/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Tree
 |  |
@@ -165,6 +168,7 @@
 | [0231-power-of-two](https://github.com/Mithesh10/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Mithesh10/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Mithesh10/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -177,6 +181,7 @@
 | [0190-reverse-bits](https://github.com/Mithesh10/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mithesh10/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Mithesh10/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +198,7 @@
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mithesh10/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mithesh10/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
