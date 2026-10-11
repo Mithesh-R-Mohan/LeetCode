@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Mithesh10/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Mithesh10/LeetCode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Mithesh10/LeetCode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0141-linked-list-cycle](https://github.com/Mithesh10/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mithesh10/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Mithesh10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Mithesh10/LeetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
