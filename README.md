@@ -91,6 +91,7 @@
 | [0206-reverse-linked-list](https://github.com/Mithesh10/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Mithesh10/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Mithesh10/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Mithesh10/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +177,7 @@
 | [0263-ugly-number](https://github.com/Mithesh10/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Mithesh10/LeetCode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Mithesh10/LeetCode/tree/master/0326-power-of-three) |
 ## Trie
 |  |
 | ------- |
