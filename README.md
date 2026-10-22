@@ -24,6 +24,7 @@
 | [0283-move-zeroes](https://github.com/Mithesh10/LeetCode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Mithesh10/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [0344-reverse-string](https://github.com/Mithesh10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithesh10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Mithesh10/LeetCode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Tree
 |  |
@@ -222,6 +226,7 @@
 | [0242-valid-anagram](https://github.com/Mithesh10/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
