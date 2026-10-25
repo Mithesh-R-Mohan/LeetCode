@@ -42,6 +42,7 @@
 | [0290-word-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Mithesh10/LeetCode/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0290-word-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mithesh10/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithesh10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Mithesh10/LeetCode/tree/master/0383-ransom-note) |
 ## Stack
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Mithesh10/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Mithesh10/LeetCode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
