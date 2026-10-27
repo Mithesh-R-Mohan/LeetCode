@@ -44,6 +44,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Mithesh10/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithesh10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Mithesh10/LeetCode/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Mithesh10/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Mithesh10/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Mithesh10/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Mithesh10/LeetCode/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
 | ------- |
@@ -215,6 +217,7 @@
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Mithesh10/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Mithesh10/LeetCode/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Mithesh10/LeetCode/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -234,6 +237,7 @@
 | [0268-missing-number](https://github.com/Mithesh10/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Mithesh10/LeetCode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
