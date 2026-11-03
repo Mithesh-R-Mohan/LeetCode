@@ -85,6 +85,7 @@
 | [0392-is-subsequence](https://github.com/Mithesh10/LeetCode/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mithesh10/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Mithesh10/LeetCode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Mithesh10/LeetCode/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +214,7 @@
 | [0342-power-of-four](https://github.com/Mithesh10/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Mithesh10/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mithesh10/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/Mithesh10/LeetCode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -236,6 +238,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Mithesh10/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Mithesh10/LeetCode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Mithesh10/LeetCode/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
