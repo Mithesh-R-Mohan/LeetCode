@@ -25,6 +25,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Mithesh10/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Mithesh10/LeetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Mithesh10/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -254,6 +255,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Mithesh10/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mithesh10/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Mithesh10/LeetCode/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Mithesh10/LeetCode/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
