@@ -1,4 +1,7 @@
-class Solution(object):
-    def countSegments(self, s):
-        s=s.split()
-        return len(s)
+class Solution:
+  def countSegments(self, s):
+    segments = 0
+    for i in range(len(s)):
+      if s[i] != ' ' and (i == 0 or s[i - 1] == ' '):
+        segments += 1
+    return segments
