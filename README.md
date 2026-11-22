@@ -93,6 +93,7 @@
 | [0412-fizz-buzz](https://github.com/Mithesh10/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Mithesh10/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Mithesh10/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Stack
 |  |
 | ------- |
@@ -365,4 +366,16 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Mithesh10/LeetCode/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Mithesh10/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
