@@ -244,6 +244,7 @@
 | [0389-find-the-difference](https://github.com/Mithesh10/LeetCode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/Mithesh10/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Mithesh10/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/Mithesh10/LeetCode/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
